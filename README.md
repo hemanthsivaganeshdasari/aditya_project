@@ -1,1 +1,2 @@
-# aditya_project
+# AdityaProject
+Prototype
