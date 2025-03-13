@@ -1,2 +1,0 @@
-# AdityaProject
-Prototype
